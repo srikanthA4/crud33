@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.workspace {
+  color: white;
+}
+
+.dropdown-menu.show {
+  background-color: green;
+  border: none;
+}
